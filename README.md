@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdullah Mazher <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
 
-<h2 align="center">👨‍💻 Associate Software Engineer | Senior Frontend Developer | React, Next & React Native Specialist</h2>
+<h2 align="center">👨‍💻 Associate Software Engineer | Senior Full Stack Developer | React, Next & React Native Specialist</h2>
 
 <p align="center">
   🚀 Turning ideas into modern, responsive web and mobile applications with smooth UI and clean code.<br/>
@@ -70,6 +70,6 @@
 <p align="center">
   📍 Based in Lahore, Pakistan  
   💼 Open to collaboration and exciting frontend roles  
-  ✉️ Email: danishyaqoob117@gmail.com  
-  🔗 <a href="https://www.linkedin.com/in/danish-yaqoob-36a42a262/" target="_blank">LinkedIn</a> | <a href="https://my-portfolio-website-ruby-six.vercel.app/" target="_blank">Portfolio</a>
+  ✉️ Email: abdullahmazher@gmail.com  
+  🔗 <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
 </p>
