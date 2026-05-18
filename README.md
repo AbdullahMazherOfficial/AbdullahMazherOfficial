@@ -70,6 +70,6 @@
 <p align="center">
   📍 Based in Lahore, Pakistan  
   💼 Open to collaboration and exciting frontend roles  
-  ✉️ Email: abdullahmazher@gmail.com  
-  🔗 <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+  ✉️ Email: Abd.sialvi64@gmail.com  
+  🔗 <a href="https://www.linkedin.com/in/abdullah-mazher/" target="_blank">LinkedIn</a>
 </p>
