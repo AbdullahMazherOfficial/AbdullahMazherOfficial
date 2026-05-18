@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abdullah Mazher <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
 
-<!--
-**AbdullahMazherOfficial/AbdullahMazherOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👨‍💻 Associate Software Engineer | Senior Frontend Developer | React, Next & React Native Specialist</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Turning ideas into modern, responsive web and mobile applications with smooth UI and clean code.<br/>
+  🎯 Focused on React.js, Next.js, React Native, API Integration, and modern UI tools.<br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--  ---  -->
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danishyaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="danishyaqoob" />
+</p> -->
+
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>JavaScript, TypeScript, HTML5, CSS3, SCSS</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>React.js, Next.js, React Native, Redux</td>
+  </tr>
+  <tr>
+    <td><strong>Styling</strong></td>
+    <td>Tailwind CSS, Bootstrap, Material UI, Shadcn/UI, @keyframes</td>
+  </tr>
+  <tr>
+    <td><strong>Integration</strong></td>
+    <td>REST APIs, Axios, Async/Await</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git, GitHub, VSCode, Figma, Postman, Chrome DevTools</td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">💻 Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+  <!-- Newly Added (No changes above) -->
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">📫 Let's Connect!</h3>
+
+<p align="center">
+  📍 Based in Lahore, Pakistan  
+  💼 Open to collaboration and exciting frontend roles  
+  ✉️ Email: danishyaqoob117@gmail.com  
+  🔗 <a href="https://www.linkedin.com/in/danish-yaqoob-36a42a262/" target="_blank">LinkedIn</a> | <a href="https://my-portfolio-website-ruby-six.vercel.app/" target="_blank">Portfolio</a>
+</p>
