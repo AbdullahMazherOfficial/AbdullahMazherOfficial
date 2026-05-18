@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdullah Mazher <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
 
-<h2 align="center">👨‍💻 Associate Software Engineer | Senior Full Stack Developer | React, Next & React Native Specialist</h2>
+<h2 align="center">👨‍💻 Associate Software Engineer | Full Stack Developer | </h2>
 
 <p align="center">
   🚀 Turning ideas into modern, responsive web and mobile applications with smooth UI and clean code.<br/>
