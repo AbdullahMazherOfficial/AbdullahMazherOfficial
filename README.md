@@ -20,23 +20,23 @@
 <table align="center">
   <tr>
     <td><strong>Languages</strong></td>
-    <td>JavaScript, TypeScript, HTML5, CSS3, SCSS</td>
+    <td>JavaScript, TypeScript, C++, HTML5, CSS3, SCSS</td>
   </tr>
   <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>React.js, Next.js, React Native, Redux</td>
+    <td><strong>Frontend Frameworks</strong></td>
+    <td>React.js, Next.js, React Native</td>
   </tr>
   <tr>
-    <td><strong>Styling</strong></td>
-    <td>Tailwind CSS, Bootstrap, Material UI, Shadcn/UI, @keyframes</td>
+    <td><strong>Backend Frameworks</strong></td>
+    <td>Nust.js Node.js, Express, MongoDB, Postgress</td>
   </tr>
   <tr>
-    <td><strong>Integration</strong></td>
-    <td>REST APIs, Axios, Async/Await</td>
+    <td><strong>3rd Party Tools</strong></td>
+    <td>Better Auth, Drizzle, Google cloud, Firebase, Fireblocks SDK, WalletConnect, ReonApkit, Strip, Ethers.js, TronWeb, 1Inch</td>
   </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, GitHub, VSCode, Figma, Postman, Chrome DevTools</td>
+   <tr>
+    <td><strong>Devops Tools</strong></td>
+    <td>Git, AWS, Vercel</td>
   </tr>
 </table>
 
